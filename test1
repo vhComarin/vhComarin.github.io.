@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Meu Site</title>
+	<style type="text/css">
+		body {
+			background-color: black;
+		}
+		button {
+			background-color: red;
+			color: white;
+			padding: 10px 20px;
+			border: none;
+			cursor: pointer;
+		}
+	</style>
+</head>
+<body>
+	<button onclick="window.location.href='https://exemplo.com'">Clique aqui!</button>
+</body>
+</html>
